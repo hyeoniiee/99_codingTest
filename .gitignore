@@ -1,5 +1,10 @@
 ### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 out/
+code99.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
